@@ -24,6 +24,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=koiwas&column=7&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+<!-- [![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=koiwas&column=7&theme=onedark)](https://github.com/KATO-Hiro/AtCoderTrophies) -->
+
+![graph](https://raw.githubusercontent.com/koiwas/koiwas/main/profile-summary-card-output/onedark/0-profile-details.svg)
+
 # 🔨 Skills
 <img src="https://skillicons.dev/icons?i=py,postgres,git,docker,aws,gcp,github,gitlab,vscode&theme=dark" alt="Skills" /> <br />
 ※Other: Snowflake, Tableau and so on.
