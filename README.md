@@ -18,7 +18,7 @@
 
 # 📈 Status
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koiwas&layout=compact&count_private=true&show_icons=true&theme=onedark" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koiwas&layout=compact&count_private=true&show_icons=true&theme=onedark&hide=jupyter%20notebook" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=koiwas&count_private=true&show_icons=true&theme=onedark" />
 </p>
 
