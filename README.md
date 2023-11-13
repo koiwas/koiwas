@@ -35,6 +35,7 @@
 # 🎖 Certifications
 <img src="https://github.com/koiwas/koiwas/assets/111184429/3d84c746-a2c6-43ed-8bb2-6c30d941bbfb" alt="Microsoft Certified Azure Fundamentals" width="70" height="70" />
 <img src="https://github.com/koiwas/koiwas/assets/111184429/f7856cbb-7a20-450d-ac4d-c387140b1206" alt="Google Cloud Associate Cloud Engineer" width="70" height="70" />
+<img src="https://github.com/koiwas/koiwas/assets/111184429/a55e6be3-6907-4e5b-bfc7-54e4b34a1ebb" alt="AWS Certified Solutions Architect - Associate" width="70" height="70" />
 <img src="https://github.com/koiwas/koiwas/assets/111184429/a2ea5a60-c675-4acc-9387-16188fb86730" alt="Tableau Desktop Specialist" width="70" height="70" />
 <img src="https://github.com/koiwas/koiwas/assets/111184429/7389392f-99f9-4055-b700-86103e013d18" alt="Designing and Providing Microsoft Licensing Solutions to　Large Organizations" width="70" height="70" />  <br />
 ※Other: OSS-DB Silver, Python 3 Basic Grammar Certification, Python 3 Data Analyst Certification and so on.
