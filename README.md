@@ -30,7 +30,7 @@
 
 # 🔨 Skills
 <img src="https://skillicons.dev/icons?i=py,postgres,git,docker,aws,gcp,github,gitlab,vscode&theme=dark" alt="Skills" /> <br />
-※Other: Snowflake, Tableau and so on.
+※Other: Snowflake, Tableau, digdag and so on.
 
 # 🎖 Certifications
 <img src="https://github.com/koiwas/koiwas/assets/111184429/3d84c746-a2c6-43ed-8bb2-6c30d941bbfb" alt="Microsoft Certified Azure Fundamentals" width="70" height="70" />
