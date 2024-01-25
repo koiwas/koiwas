@@ -29,7 +29,7 @@
 ![graph](https://raw.githubusercontent.com/koiwas/koiwas/main/profile-summary-card-output/onedark/0-profile-details.svg)
 
 # 🔨 Skills
-<img src="https://skillicons.dev/icons?i=py,postgres,git,docker,terraform,aws,gcp,github,gitlab,vscode,anaconda&theme=dark" alt="Skills" /> <br />
+<img src="https://skillicons.dev/icons?i=py,javascript,postgres,git,docker,terraform,aws,gcp,github,gitlab,vscode,anaconda&theme=dark" alt="Skills" /> <br />
 ※Other: Snowflake, Tableau, digdag and so on.
 
 # 🎖 Certifications
