@@ -1,4 +1,8 @@
-## Hi there 👋
+[![Profile Views](https://komarev.com/ghpvc/?username=koiwas&abbreviated=true)](https://github.com/antonkomarev/github-profile-views-counter)
+
+<div align="center">
+
+## Hi there 👋 
 
 <!--
 **koiwas/koiwas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Introduce](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Data+Engineer)](https://git.io/typing-svg)
+
+[![Tech Stack](https://skillicons.dev/icons?i=py,gcp,github,terraform,docker)](https://skillicons.dev)
+
+</div>
